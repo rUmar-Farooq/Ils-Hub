@@ -1,4 +1,4 @@
-package com.ilshub
+package com.umarfarooq21.ilshub
 
 import android.app.Application
 import android.content.res.Configuration
